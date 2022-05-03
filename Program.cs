@@ -145,7 +145,7 @@ namespace Calculator
 
                 Console.WriteLine("------------------------\n");
 
-                Console.Write("Press 'n' and Enter to close the app, or press any Enter key to continue: ");
+                Console.Write("Press 'n' and Enter to close the app, or press Enter key to continue: ");
 
                 if (Console.ReadLine() == "n") 
                 {
