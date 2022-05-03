@@ -1,4 +1,4 @@
-# My First C# App
+# C# App
 
 Requirement:
 - .NET SDK | [Download .NET SDK](https://dotnet.microsoft.com/en-us/download) | *Runtime Environment*
