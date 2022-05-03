@@ -1,0 +1,15 @@
+C:\Users\Aldrich\Documents\myFirstCApp\bin\Debug\net6.0\myFirstCApp.exe
+C:\Users\Aldrich\Documents\myFirstCApp\bin\Debug\net6.0\myFirstCApp.deps.json
+C:\Users\Aldrich\Documents\myFirstCApp\bin\Debug\net6.0\myFirstCApp.runtimeconfig.json
+C:\Users\Aldrich\Documents\myFirstCApp\bin\Debug\net6.0\myFirstCApp.dll
+C:\Users\Aldrich\Documents\myFirstCApp\bin\Debug\net6.0\myFirstCApp.pdb
+C:\Users\Aldrich\Documents\myFirstCApp\obj\Debug\net6.0\myFirstCApp.csproj.AssemblyReference.cache
+C:\Users\Aldrich\Documents\myFirstCApp\obj\Debug\net6.0\myFirstCApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aldrich\Documents\myFirstCApp\obj\Debug\net6.0\myFirstCApp.AssemblyInfoInputs.cache
+C:\Users\Aldrich\Documents\myFirstCApp\obj\Debug\net6.0\myFirstCApp.AssemblyInfo.cs
+C:\Users\Aldrich\Documents\myFirstCApp\obj\Debug\net6.0\myFirstCApp.csproj.CoreCompileInputs.cache
+C:\Users\Aldrich\Documents\myFirstCApp\obj\Debug\net6.0\myFirstCApp.dll
+C:\Users\Aldrich\Documents\myFirstCApp\obj\Debug\net6.0\refint\myFirstCApp.dll
+C:\Users\Aldrich\Documents\myFirstCApp\obj\Debug\net6.0\myFirstCApp.pdb
+C:\Users\Aldrich\Documents\myFirstCApp\obj\Debug\net6.0\myFirstCApp.genruntimeconfig.cache
+C:\Users\Aldrich\Documents\myFirstCApp\obj\Debug\net6.0\ref\myFirstCApp.dll
