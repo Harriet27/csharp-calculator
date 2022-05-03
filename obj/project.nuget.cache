@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OM5Fjyqdu90MWv8yYCF8pjyTDFOJsO+kGgojfohO7dl1ppFronNghgw7mgFYlG04mQw95yyaSSZyN2VHMSW4mQ==",
+  "dgSpecHash": "yHQX2jJCpWXbE82wixc3435Yqx3L44ig5ujuujBuv1bNrMI+gP5F9bkX97ZYfu5nl40OZ/xpy5NYrp1bJ6+7Fg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Aldrich\\Documents\\myFirstCApp\\myFirstCApp.csproj",
+  "projectFilePath": "C:\\Users\\Aldrich\\Documents\\csharp-app\\myFirstCApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
