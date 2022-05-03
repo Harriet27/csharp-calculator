@@ -1,4 +1,4 @@
-# myFirstCApp
+# My First C# App
 
 Requirement:
 - Visual Studio 2022 | [Download Visual Studio 2022](https://visualstudio.microsoft.com/vs/) | *Recommended*
